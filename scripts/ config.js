@@ -1,3 +1,5 @@
+// Created by Dravin Sookraj
+
 export const API_URL = `https://ipapi.co/`
 
 export const API_KEY = `9e885cf31383ed155644137ad60c2238`;
